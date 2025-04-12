@@ -173,7 +173,9 @@ print("my webser is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
+
 ![Screenshot 2025-04-12 103616](https://github.com/user-attachments/assets/0553e266-d1b3-43c3-9e53-92444b1fcba2)
+
 ![Screenshot 2025-04-12 103824](https://github.com/user-attachments/assets/d3927082-26ac-410a-8e4a-522bba54706e)
 
 
